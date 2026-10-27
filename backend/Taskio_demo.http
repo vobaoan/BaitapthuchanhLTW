@@ -1,0 +1,6 @@
+@Taskio_demo_HostAddress = http://localhost:5252
+
+GET {{Taskio_demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
